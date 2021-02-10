@@ -5,3 +5,5 @@ const manipulate = {
 };
 
 console.log(manipulate.test());
+
+console.log(manipulate.test());
